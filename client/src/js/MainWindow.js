@@ -15,6 +15,9 @@ function MainWindow({ startCall, clientId }) {
 
   return (
     <div className="container main-window">
+      <span class="main-window">
+        Video Call Using WebRTC
+      </span>
       <div>
         <h3>
           Hi, your ID is
